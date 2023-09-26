@@ -363,7 +363,7 @@ SSH password: T_v****_r****
 ```
 This is the SSH password.
 
-Remember we have one more website that we did not message to get information from it earlier? Navigate to `http//<Machine's IP Address>/studyRoom/`.
+Remember we have one more website that we did not manage to get information from it earlier? Navigate to `http//<Machine's IP Address>/studyRoom/`.
 Now that we have the helmet flag, let's input the helmet flag and see what we have.
 
 ![image](https://github.com/ivanloh1216/TryHackMe/assets/58873811/4c6faa91-df86-48e7-8c0e-b18e7ecc5dfb)
